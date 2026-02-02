@@ -1,4 +1,4 @@
 # luanti-movecraft
-Changes player movement mechanics to closely match that of Minecraft.
+Changes player movement mechanics to more closely resemble that of Minecraft
 
-Works great with bodyanim
+Works great with [Bodyanim](https://content.luanti.org/packages/dacctal/bodyanim/)
