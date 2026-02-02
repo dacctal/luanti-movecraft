@@ -1,2 +1,4 @@
 # luanti-movecraft
-tweaked player movement mechanics for Luanti
+Changes player movement mechanics to closely match that of Minecraft.
+
+Works great with bodyanim
